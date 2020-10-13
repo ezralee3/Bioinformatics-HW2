@@ -1,19 +1,11 @@
 # Bioinformatics-HW2
-{\rtf1\ansi\ansicpg1252\cocoartf2512
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww16780\viewh12460\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
-\f0\b\fs32 \cf0 Team Members:\
+Team Members:
 Willy Deng, Ezra Lee, Ivan Zundel\
 
-\f1\b0 \
-You will need to import the following libraries:\
-\
+You will need to import the following libraries:
 
-\f0\b from Bio import Alphabet\
+from Bio import Alphabet\
 from Bio.Alphabet import Reduced\
 from Bio.Alphabet import IUPAC\
 from Bio.Seq import Seq\
